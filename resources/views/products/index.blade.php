@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Apps Laravel 12</title>
+    <title>CRUD RPL2</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
@@ -14,8 +14,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
-                    <h3 class="text-center my-4">APPS LARAVEL 12</h3>
-                    <h5 class="text-center">By. Ridwan, M.T</h5>
+                    <h3 class="text-center my-4">CRUD RPL2</h3>
+                    <h5 class="text-center">By Yosafat Bagas H</h5>
                     <hr>
                 </div>
                 <div class="card border-0 shadow-sm rounded">
